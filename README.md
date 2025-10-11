@@ -258,8 +258,4 @@ petty-app/
 | `DB_HOST` | Database host | database |
 | `API_URL` | Backend API URL | http://backend:5000/api |
 
-## 🙏 Acknowledgments
 
-- Built with Node.js, Express, MySQL, and Docker
-- EJS for templating
-- Docker Compose for orchestration
