@@ -60,7 +60,7 @@ This is a 3-tier architecture application:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/petty-app.git
+git clone [https://github.com/yourusername/petty-app.git](https://github.com/AhmedAli70x/petapp-DockerCompose)
 cd petty-app
 ```
 
